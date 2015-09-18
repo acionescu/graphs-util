@@ -16,12 +16,11 @@
     limitations under the License.
 
 -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
    <modelVersion>4.0.0</modelVersion>
    <groupId>net.segoia</groupId>
    <artifactId>graphs-util</artifactId>
-   <version>0.0.1-SNAPSHOT</version>
+   <version>0.0.1</version>
    <name>graphs-util</name>
    <description>Utility to model graphs</description>
    <url>https://github.com/acionescu/graphs-util</url>
@@ -45,8 +44,8 @@
       <version>7</version>
    </parent>
    <scm>
-      <connection>git@github.com:acionescu/graphs-util.git</connection>
-      <developerConnection>git@github.com:acionescu/graphs-util.git</developerConnection>
+      <connection>scm:git:git@github.com:acionescu/graphs-util.git</connection>
+      <developerConnection>scm:git:git@github.com:acionescu/graphs-util.git</developerConnection>
       <url>https://github.com/acionescu/graphs-util</url>
    </scm>
    <build>
