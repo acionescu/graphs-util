@@ -20,7 +20,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>net.segoia</groupId>
    <artifactId>graphs-util</artifactId>
-   <version>0.0.1</version>
+   <version>0.0.2-SNAPSHOT</version>
    <name>graphs-util</name>
    <description>Utility to model graphs</description>
    <url>https://github.com/acionescu/graphs-util</url>
